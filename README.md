@@ -6,3 +6,10 @@ Program Link: https://www.theforage.com/simulations/british-airways/data-science
 
 Data Science Virtual intership programme by British Airways through Forage
 
+
+**Task 1**
+This first task is focused on scraping and collecting customer feedback and reviewing data from a third-party source and analysing this data to present any insights you may uncover.
+
+Data Link:https://www.airlinequality.com/
+
+Preparing a powerpoint presentation to highlights our insights and analysis.
